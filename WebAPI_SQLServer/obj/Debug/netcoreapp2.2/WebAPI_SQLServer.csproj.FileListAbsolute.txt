@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\bin\Debug\netcoreapp2.2\WebAPI_SQLServer.deps.json
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\bin\Debug\netcoreapp2.2\WebAPI_SQLServer.runtimeconfig.json
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\bin\Debug\netcoreapp2.2\WebAPI_SQLServer.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\bin\Debug\netcoreapp2.2\WebAPI_SQLServer.dll
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.RazorAssemblyInfo.cache
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.RazorAssemblyInfo.cs
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.RazorTargetAssemblyInfo.cache
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\bin\Debug\netcoreapp2.2\WebAPI_SQLServer.pdb
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.dll
+C:\Users\Fernando\Desktop\Projetos\ToDoList\ToDoList\WebAPI_SQLServer\obj\Debug\netcoreapp2.2\WebAPI_SQLServer.pdb
