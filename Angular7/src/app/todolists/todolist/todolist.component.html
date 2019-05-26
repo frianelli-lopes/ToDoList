@@ -1,0 +1,29 @@
+<form #form="ngForm" autocomplete="off">
+  
+  <input type="hidden" name="ToDoListId" [value]="service.formData.ToDoListId">
+
+  <div class="form-group">
+      <div class="form-group">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <div class="input-group-text bg-white">
+                <i class="fas fa-tasks" [class.green-icon]="Titulo.valid" [class.red-icon]="Titulo.invalid && Titulo.touched"></i>
+              </div>
+            </div>
+            <input name="Titulo" #Titulo="ngModel" [(ngModel)]="service.formData.Titulo" class="form-control" 
+            placeholder="Título da tarefa" required maxlength="100" minlength="100">
+          </div>
+      </div>
+      
+
+    <div class="form-group">
+        <input type="checkbox" name="Concluido" id="Concluido" #Titulo="ngModel" [(ngModel)]="service.formData.Concluido" class="form-control" >
+        <label for="Concluido">Tarefa Concluída</label>
+    </div>
+
+
+    <div class="form-group">
+        <button class="btn btn-success btn-lg btn-block" type="submit" [disabled]="form.invalid"><i class="fas fa-database"></i> Submit</button>
+    </div>
+  </div>
+</form>

@@ -1,0 +1,17 @@
+● src
++---● app
+|   +--● todolists
+|   |  |--todolists.component.ts|.html|.css
+|   |  +--● todolist
+|   |  |  |--todolist.component.ts|.html|.css
+|   |  |
+|   |  +--● todolist-list
+|   |  |  |--todolist-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--todolist.service.ts
+|   |     |--todolist.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap & fa icons)
