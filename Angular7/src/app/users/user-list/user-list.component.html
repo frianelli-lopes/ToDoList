@@ -1,0 +1,12 @@
+<table class="table table-hover">
+  <tr *ngFor="let us of service.list">
+    <td (click)="populateForm(us)">{{tdl.UserId}}</td>
+    <td (click)="populateForm(us)">{{tdl.Nome}}</td>
+    <td (click)="populateForm(us)">{{tdl.Email}}</td>
+    <td (click)="populateForm(us)">{{tdl.Permissao}}</td>
+    <td>
+      <i class="far fa-trash-alt fa-lg text-danger" (click)="onDelete(us.UserId)"></i>
+    </td>
+  </tr>
+</table>
+

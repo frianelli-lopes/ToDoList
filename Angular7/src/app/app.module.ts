@@ -6,17 +6,26 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { ToastrModule } from 'ngx-toastr';
 import { AppComponent } from './app.component';
+
 import { TodolistsComponent } from './todolists/todolists.component';
 import { TodolistComponent } from './todolists/todolist/todolist.component';
 import { TodolistListComponent } from './todolists/todolist-list/todolist-list.component';
 import { TodolistService } from './shared/todolist.service';
+
+import { UsersComponent } from './users/users.component';
+import { UserComponent } from './users/user/user.component';
+import { UserListComponent } from './users/user-list/user-list.component';
+import { UserService } from './shared/user.service';
 
 @NgModule({
   declarations: [
     AppComponent,
     TodolistsComponent,
     TodolistComponent,
-    TodolistListComponent
+    TodolistListComponent,
+    UsersComponent,
+    UserComponent,
+    UserListComponent
   ],
   imports: [
     BrowserModule,
