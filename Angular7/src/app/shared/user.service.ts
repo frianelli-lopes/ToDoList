@@ -1,13 +1,14 @@
 import { User } from './user.model';
 import { Injectable } from '@angular/core';
 import { HttpClient } from "@angular/common/http";
+import { API } from "./constants";
 
 @Injectable({
   providedIn: 'root'
 })
 export class UserService {
   formData: User;
-  readonly rootURL = 'http://localhost:59728/api'; //?
+  readonly rootURL = API;
   list : User[];
 
   constructor(private http: HttpClient) { }

@@ -1,13 +1,14 @@
 import { Todolist } from './todolist.model';
 import { Injectable } from '@angular/core';
 import { HttpClient } from "@angular/common/http";
+import { API } from "./constants";
 
 @Injectable({
   providedIn: 'root'
 })
 export class TodolistService {
   formData: Todolist;
-  readonly rootURL = 'http://localhost:59728/api'; //?
+  readonly rootURL = API; 
   list : Todolist[];
 
   constructor(private http: HttpClient) { }
