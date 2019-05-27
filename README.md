@@ -9,5 +9,5 @@ Este projeto utiliza uma API como backend cujo código fonte encontra-se no repo
 
 export const API = "https://localhost:59728/api";
 
-#Execução
+# Execução
 Para executar este projeto, navegar até a pasta inicial e executar o comando ng serve. Após compilação, abrir o navegador de preferência e digitar a URL http://localhost:4200. Ao abrir a página de Login, informar valores iguais para o usuário e para a senha.
